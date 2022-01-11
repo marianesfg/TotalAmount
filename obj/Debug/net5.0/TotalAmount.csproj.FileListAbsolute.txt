@@ -1,0 +1,16 @@
+C:\Users\maria\source\repos\TotalAmount\bin\Debug\net5.0\TotalAmount.exe
+C:\Users\maria\source\repos\TotalAmount\bin\Debug\net5.0\TotalAmount.deps.json
+C:\Users\maria\source\repos\TotalAmount\bin\Debug\net5.0\TotalAmount.runtimeconfig.json
+C:\Users\maria\source\repos\TotalAmount\bin\Debug\net5.0\TotalAmount.runtimeconfig.dev.json
+C:\Users\maria\source\repos\TotalAmount\bin\Debug\net5.0\TotalAmount.dll
+C:\Users\maria\source\repos\TotalAmount\bin\Debug\net5.0\ref\TotalAmount.dll
+C:\Users\maria\source\repos\TotalAmount\bin\Debug\net5.0\TotalAmount.pdb
+C:\Users\maria\source\repos\TotalAmount\obj\Debug\net5.0\TotalAmount.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\TotalAmount\obj\Debug\net5.0\TotalAmount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\TotalAmount\obj\Debug\net5.0\TotalAmount.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\TotalAmount\obj\Debug\net5.0\TotalAmount.AssemblyInfo.cs
+C:\Users\maria\source\repos\TotalAmount\obj\Debug\net5.0\TotalAmount.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\TotalAmount\obj\Debug\net5.0\TotalAmount.dll
+C:\Users\maria\source\repos\TotalAmount\obj\Debug\net5.0\ref\TotalAmount.dll
+C:\Users\maria\source\repos\TotalAmount\obj\Debug\net5.0\TotalAmount.pdb
+C:\Users\maria\source\repos\TotalAmount\obj\Debug\net5.0\TotalAmount.genruntimeconfig.cache
